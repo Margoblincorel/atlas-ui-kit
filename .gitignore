@@ -1,0 +1,8 @@
+.copilot-log
+.gitconfig
+*.dll
+*.log
+process-*
+.openjdk*
+release
+api-ms-*
